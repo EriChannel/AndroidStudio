@@ -1,2 +1,2 @@
 # AndroidStudio
-Ở đây chứ codee mấy app android tào lao
+Ở đây chứa code mấy app android tào lao
